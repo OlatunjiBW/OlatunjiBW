@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OlatunjiBW
+- 👋 Hi, I’m B.W. Olatunji
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Python, R, SQL, Power BI, Google Analytics
 - 💞️ I’m looking to collaborate on interesting data science and analytics projects
